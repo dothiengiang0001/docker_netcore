@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "0dPbWoVxr6ACWG+p4UjuKhZAlUA2VIOPkLncqAJhO/U=",
+  "Source": "BlazorApp",
+  "BasePath": "_content/BlazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorApp\\wwwroot",
+      "Source": "BlazorApp",
+      "ContentRoot": "C:\\Users\\dothi\\OneDrive\\Máy tính\\Temp\\docker_netcore\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\dothi\\OneDrive\\Máy tính\\Temp\\docker_netcore\\BlazorApp\\wwwroot\\css\\site.css",
+      "SourceId": "BlazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\dothi\\OneDrive\\Máy tính\\Temp\\docker_netcore\\BlazorApp\\wwwroot\\",
+      "BasePath": "_content/BlazorApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}
